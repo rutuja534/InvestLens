@@ -1,6 +1,12 @@
 # InvestLens
 InvestLens is an AI-powered platform designed to accelerate the venture capital due diligence process. It transforms a raw PowerPoint pitch deck into a comprehensive, actionable investment thesis, enabling investors to make faster, more informed screening decisions.
 The end-to-end workflow is fully automated: from a secure Google OAuth login and file upload to a sophisticated analysis by the Google Gemini API. The system culminates in a professional-grade PDF report, which is uploaded to AWS S3 and delivered directly to the user's inbox via a SendGrid email notification.
+## Live Demo & Video
+
+[![InvestLens Demo Video](https://github.com/rutuja534/InvestLens/blob/ac3f579c11ae4ec8a6ca10f964a3ec6c493867ee/thumbnail.png)]([https://vimeo.com/YOUR_VIMEO_VIDEO_ID](https://vimeo.com/1105530159?share=copy))
+
+*Click the image above to watch the full video walkthrough.*
+
 
 ### ✨ Key Features
 
